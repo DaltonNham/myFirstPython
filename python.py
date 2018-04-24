@@ -1,0 +1,6 @@
+print " __       __"
+print "/  ___   /  "
+print "\_(>~>)_/   "
+print "   | |      "
+print "    ^       "
+print "   / \      "
